@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Kieu Nam Hai</h1>
 <h3 align="left">My 'real' name is Banana 🍌 - A backend developer from Hanoi, Viet Nam</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently working in **FPT University** as soft engr
 
 - 💬 Ask me about **what's for dinner?**
 
