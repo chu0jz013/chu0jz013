@@ -14,10 +14,10 @@
 <a href="https://www.leetcode.com/chu0jz013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chu0jz013" height="30" width="40" /></a>
 </p>
 
-<!-- # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=chu0jz013&theme=dark&hide_border=false&include_all_commits=true&count_private=true) -->
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=chu0jz013&theme=dark&hide_border=false)<br/>-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gruxeon2507&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chu0jz013&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=chu0jz013&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chu0jz013&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <h3 align="left">Languages and Tools:</h3>
