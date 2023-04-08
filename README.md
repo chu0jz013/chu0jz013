@@ -11,7 +11,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/chu0jz013?theme=dark&font=Noto%20Sans%20Lisu)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=chu0jz013&theme=dark&hide_border=false&include_all_commits=true&count_private=true) -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=chu0jz013&theme=dark&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chu0jz013&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chu0jz0133&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
