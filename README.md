@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Kieu Nam Hai</h1>
 <h3 align="left">My 'real' name is Banana 🍌</h3>
 
-- 🌱 I’m currently working at **FPT Software as a DevOps Engineer**
+- 🌱 I’m currently working as a **DevOps Engineer**
 
 - 💬 Ask me about **what's for dinner?**
 
